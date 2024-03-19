@@ -1,5 +1,3 @@
-# Group1Project2
-
 # National COVID Data: 2020-2024
 
 Group1Project2 Group Members: Katherine Driebe (kad5fwz), Ramya Tangirala (rt4an), and Lasata Tuladhar (lt9vx)
